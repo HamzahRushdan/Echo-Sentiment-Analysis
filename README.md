@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Echo-Sentiment-Analysis
 
 Using Coursera's project network I created a natural language processing project in Python that gauged customer sentiment for Amazon's Echo.
 My goal for this project was to build, train, test and deploy an artificial intelligence (AI) model to predict sentiment from real Amazon Echo customer reviews.
